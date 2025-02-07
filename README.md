@@ -7,7 +7,7 @@ This web application allows users to chat with their uploaded PDF documents usin
 
 - PDF upload and processing
 - Question answering based on PDF content
-- Utilizes LLAMA 2 model via NVIDIA NIM for natural language processing
+- Utilizes LLAMA 3 model via NVIDIA NIM for natural language processing
 - Implements Retrieval Augmented Generation for accurate responses
 - Built with Streamlit for a user-friendly interface
 
@@ -64,6 +64,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- NVIDIA for providing access to the LLAMA 2 model through NIM
+- NVIDIA for providing access to the LLAMA 3 model through NIM
 - Streamlit for the web application framework
 - LangChain for the document processing and RAG implementation
