@@ -45,7 +45,7 @@ This web application allows users to chat with their uploaded PDF documents usin
 1. The app uses NVIDIA Embeddings to create vector representations of the PDF content.
 2. The document is split into chunks and stored in a FAISS vector database.
 3. When a question is asked, the app retrieves relevant document chunks using the vector database.
-4. The LLAMA 2 model, accessed through NVIDIA NIM, generates an answer based on the retrieved context and the question.
+4. The LLAMA 3 model, accessed through NVIDIA NIM, generates an answer based on the retrieved context and the question.
 5. The answer is displayed to the user along with the most relevant document chunks.
 
 ## Project Structure
