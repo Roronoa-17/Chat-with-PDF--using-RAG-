@@ -1,8 +1,11 @@
-openai
-python-dotenv
-langchain_nvidia_ai_endpoints
-langchain_community
-faiss-cpu
-streamlit
+fastapi
+uvicorn
 pypdf
 langchain
+langchain-google-genai
+langchain-pinecone
+langchain-text-splitters
+langgraph
+langgraph-checkpoint-postgres
+psycopg-pool
+langchain_community
